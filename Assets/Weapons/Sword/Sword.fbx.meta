@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 666202c82785874499862b83c6141e70
+timeCreated: 1443274969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: blue_light_Cylinder.002
+    100002: daste_Cylinder.001
+    100004: daste_red_Cylinder.013
+    100006: glass_blue_Cylinder
+    100008: Plane
+    100010: Point
+    100012: Sharp_Cube.001
+    100014: //RootNode
+    100016: Sword_Cube.006
+    400000: blue_light_Cylinder.002
+    400002: daste_Cylinder.001
+    400004: daste_red_Cylinder.013
+    400006: glass_blue_Cylinder
+    400008: Plane
+    400010: Point
+    400012: Sharp_Cube.001
+    400014: //RootNode
+    400016: Sword_Cube.006
+    2300000: blue_light_Cylinder.002
+    2300002: daste_Cylinder.001
+    2300004: daste_red_Cylinder.013
+    2300006: glass_blue_Cylinder
+    2300008: Plane
+    2300010: Sharp_Cube.001
+    2300012: Sword_Cube.006
+    3300000: blue_light_Cylinder.002
+    3300002: daste_Cylinder.001
+    3300004: daste_red_Cylinder.013
+    3300006: glass_blue_Cylinder
+    3300008: Plane
+    3300010: Sharp_Cube.001
+    3300012: Sword_Cube.006
+    4300000: Plane
+    4300002: glass_blue_Cylinder
+    4300004: Sword_Cube.006
+    4300006: Sharp_Cube.001
+    4300008: daste_red_Cylinder.013
+    4300010: blue_light_Cylinder.002
+    4300012: daste_Cylinder.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
